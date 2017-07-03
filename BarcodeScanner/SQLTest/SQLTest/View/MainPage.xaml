@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SQLTest"
+             x:Class="SQLTest.MainPage">
+
+  <StackLayout>
+      <Label Text="Start Scanning!"
+             VerticalOptions="Center"
+             HorizontalOptions="Center" />
+    <Button Clicked="Button_OnClicked" Text="Use Scanner"></Button>
+      <Button Text="Manual Entry" Clicked="Single_onclicked"></Button>
+    <Button Text="Scan History" Clicked="List_OnClicked"></Button>
+    
+    <Label x:Name="CodeScanned"  VerticalOptions="Center" HorizontalOptions="Center"></Label>
+    
+  </StackLayout>
+
+
+</ContentPage>

@@ -1,0 +1,2 @@
+C:\Users\Sebastian\Desktop\BarcodeScanner\SQLTest\SQLTest.Windows\BarcodeScanner.Windows.csproj;neutral
+C:\Users\Sebastian\Desktop\BarcodeScanner\SQLTest\SQLTest\BarcodeScanner.csproj;neutral
